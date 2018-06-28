@@ -1,0 +1,26 @@
+
+.back-img{
+
+   background: url('images/slider_image_home@1x.png') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+/* espace vide entre menu et texte en blanche   */ 
+.espace_vert{
+
+height: 530px;
+
+}
+
+/* */ 
+
+#contact{
+   background: url('images/news_letter_background_image_home@2x.png') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
